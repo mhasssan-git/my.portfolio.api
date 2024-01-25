@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/my.portfolio.api/v17
+/my.portfolio.lambda/bin/Debug/net6.0
+/my.portfolio.lambda/obj
+/my.portfolio.lambda/.vs
+/my.portfolio.lambda.Tests/bin/Debug/net6.0
+/my.portfolio.lambda.Tests/obj
