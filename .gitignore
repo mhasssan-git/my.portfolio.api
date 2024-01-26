@@ -8,3 +8,10 @@
 /my.portfolio.lambda/.vs
 /my.portfolio.lambda.Tests/bin/Debug/net6.0
 /my.portfolio.lambda.Tests/obj
+/my.portfolio.lambda/bin/Release/net6.0
+/my.portfolio.lambda/Properties/PublishProfiles
+/my.portfolio.lambda.Tests/bin/Release/net6.0/linux-x64
+/my.portfolio.api/bin
+/my.portfolio.api/obj
+/my.portfolio.api.Tests/bin/Debug/net6.0
+/my.portfolio.api.Tests/obj
